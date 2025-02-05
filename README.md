@@ -1,4 +1,4 @@
-My name is Joseph Philipps and I'm a data analyst. I use skills in data visualization, data manipulation, and problem-solving to help drive data-driven decision-making.
+My name is Joseph Philipps and I'm a data analyst. I use my skills in data visualization, data manipulation, and problem-solving to help drive data-driven decision-making.
 
 <!---
 jphilipps123/jphilipps123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
