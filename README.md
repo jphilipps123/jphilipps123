@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jphilipps123
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning SQL, Python, and data visualization. 
-- 💞️ I’m looking to collaborate on data analysis projects. 
+My name is Joseph Philipps and I'm a data analyst. I use skills in data visualization, data manipulation, and problem-solving to help drive data-driven decision-making.
 
 <!---
 jphilipps123/jphilipps123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
