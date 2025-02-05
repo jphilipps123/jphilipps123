@@ -1,4 +1,4 @@
-My name is Joseph Philipps and I'm a data analyst. I use my skills in data visualization, data manipulation, and problem-solving to help drive data-driven decision-making.
+Welcome to my data science portfolio! Here, you'll find a collection of my projects focused on data analysis, statistical modeling, and data visualization, where I turn complex data into clear, actionable insights.
 
 <!---
 jphilipps123/jphilipps123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
